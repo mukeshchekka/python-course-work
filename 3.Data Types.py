@@ -8,7 +8,7 @@ t=(1,20,3,13,4) #tuple data type
 s={"red","Blue","Black"} #set data type
 d={"Name":"Vamsi","Age":21,"occ":"Job"} #dictionary data type
 boo=True #boolean Data type
-print(a,b,\nz,c,l,t,s,d,boo)
+print(a,b,z,c,l,t,s,d,boo)
 print(type(a))
 print(type(b))
 print(type(z))
